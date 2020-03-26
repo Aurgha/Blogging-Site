@@ -1,2 +1,3 @@
 # Blogging-Site
-it is a web based project developed using asp.net (MVC).
+Web development Project
+It is a web based project developed using asp.net (MVC).
